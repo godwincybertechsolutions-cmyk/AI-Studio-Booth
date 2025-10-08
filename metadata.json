@@ -1,0 +1,7 @@
+{
+  "name": "AI Studio Booth",
+  "description": "An application to upload or record audio, enhance it using simulated AI processing, and listen to the results.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
